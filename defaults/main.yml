@@ -1,0 +1,35 @@
+---
+unattended_blacklisted_packages:
+  - awscli*
+  - cassandra
+  - composer
+  - corosync*
+  - datastax-agent*
+  - docker*
+  - drush
+  - dse*
+  - elasticsearch*
+  - erlang*
+  - ffmepg*
+  - galera-*
+  - glusterfs*
+  - google-*
+  - graylog-*
+  - gstreamer*
+  - haproxy*
+  - java-*
+  - mariadb-*
+  - mongodb-*
+  - mysql*
+  - nginx-*
+  - nodejs*
+  - openjdk-*
+  - oracle-java*
+  - pacemaker*
+  - percona-*
+  - php*
+  - proxysql*
+  - rabbitmq*
+  - telegraf*
+  - yarn*
+  - youtube*

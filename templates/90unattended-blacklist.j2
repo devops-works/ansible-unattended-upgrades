@@ -1,0 +1,5 @@
+Unattended-Upgrade::Package-Blacklist {
+{% for pkg in unattended_blacklisted_packages %}
+  "{{ pkg }}";
+{% endfor %}
+};

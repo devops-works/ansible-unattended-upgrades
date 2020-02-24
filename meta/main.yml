@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Michel Blanc
+  company: DevOps.Works
+  description: unattended upgrades role
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  categories:
+    - system

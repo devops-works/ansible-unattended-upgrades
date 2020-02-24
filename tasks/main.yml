@@ -1,0 +1,4 @@
+---
+- import_tasks: unattended.yml
+  tags:
+    - unattended
