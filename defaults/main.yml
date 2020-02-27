@@ -10,6 +10,7 @@ unattended_blacklisted_packages:
   - dse*
   - elasticsearch*
   - erlang*
+  - ferm*
   - ffmepg*
   - galera-*
   - glusterfs*
